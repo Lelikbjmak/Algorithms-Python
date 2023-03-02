@@ -33,6 +33,7 @@ Here u can observe different kind of tasks as:
 ## 6kuy
 * [Who liked it?](six/who_likes_it/who_likes_it.md)
 * [Replace With Alphabet Position](six/replace_with_alphabet_position/replace_with_alpabet_position.md)
+* [Delete occurrences of an element if it occurs more than n times](six/delete_occurances_of_element/delete_occurances.md)
 
 ## 5kuy
 
