@@ -32,6 +32,7 @@ Here u can observe different kind of tasks as:
 
 ## 6kuy
 * [Who liked it?](six/who_likes_it/who_likes_it.md)
+* [Replace With Alphabet Position](six/replace_with_alphabet_position/replace_with_alpabet_position.md)
 
 ## 5kuy
 
