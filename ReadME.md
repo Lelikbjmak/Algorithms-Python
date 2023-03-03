@@ -38,6 +38,7 @@ Here u can observe different kind of tasks as:
 ## 5kuy
 
 ## 4kuy
+* [Summa of intervals](four/summa_of_intervals/summa_of_intervals.md)
 
 ## 3kuy
 
